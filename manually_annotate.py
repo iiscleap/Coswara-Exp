@@ -25,6 +25,7 @@ def getUserInput(question, uttid):
     try:
         a = input(question.format(uttid))
     except KeyboardInterrupt:
+        a = 'exit'
         fin = input("Sure you want to exit? (y/n) :")
         if fin == 'y':
             finish = input("Save Progress? (y/n) :")=='y'
@@ -34,10 +35,10 @@ def getUserInput(question, uttid):
 
 def saveProgress(finish, responses, annot_csvfile):
     if finish:
-            responses = pd.DataFrame(np.asarray(responses[:-1])).to_csv(index=None,header=None)
-            with open(annot_csvfile,'a+') as f:
-                f.write(responses)
-            sys.exit()
+        responses = pd.DataFrame(np.asarray(responses[:-1])).to_csv(index=None,header=None)
+        with open(annot_csvfile,'a+') as f:
+            f.write(responses)
+        sys.exit()
 
 def main():
     wavscp = np.genfromtxt('data/wav.scp', dtype='str')
