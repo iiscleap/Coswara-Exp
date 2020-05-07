@@ -43,13 +43,20 @@ def saveProgress(finish, responses, annot_csvfile):
 def main():
     wavscp = np.genfromtxt('data/wav.scp', dtype='str')
     annot_csvfile = 'data/annot.csv'
-    
+    utt2annotator = 'data/utt2annotator'
     if os.path.exists(annot_csvfile):
-        existing_uttids_in_annot = np.genfromtxt(annot_csvfile, dtype='str',delimiter=',').T[0]
+        existing_uttids_in_annot = np.genfromtxt(annot_csvfile, dtype='str',delimiter=',').T[0][1:]
     else:
-        with open(annot_csvfile,'w') as f:
-            f.write("UttId,q1,q2,q3,q4,q5,q6,OtherComments\n")
-        existing_uttids_in_annot = []
+        raise("Check annot csv file path")
+    
+    if os.path.exists(utt2annotator):
+        annotatorcsv = np.genfromtxt(utt2annotator,dtype='str',delimiter=',')
+    else:
+        raise("Check utt2annotator path!")
+
+    annotator = input("Who is annotating? : ")
+    remaining_utts_idx  = (annotatorcsv[:,1]==annotator)*(annotatorcsv[:,2]=='n')
+    
     
     questions = ["Is audio present? (y/n) : ",
                  "Is the file clean? (y/n) : ",
@@ -95,7 +102,10 @@ def main():
     responses = pd.DataFrame(np.asarray(responses)).to_csv(index=None,header=None)
     with open(annot_csvfile,'a+') as f:
         f.write(responses)
-            
+    print("Done annotating files assigned to {}.".format(annotator))
+    a = np.genfromtxt(annot_csvfile, dtype='str',delimiter=',').T[0][1:]
+    b = np.genfromtxt('data/wav.scp',dtype='str')
+    print("Total utts = {}\nUtts annotated = {}\nRemaining = {}".format(len(b),len(a),len(b)-len(a)))
             
 if __name__=='__main__':
     main()

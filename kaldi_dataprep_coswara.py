@@ -16,7 +16,7 @@ import json
 import pandas as pd
 
 # %% Kaldi functions
-Kaldi_root = '/state/partition/softwares/Kaldi_March2020/kaldi'
+Kaldi_root = '/state/partition1/softwares/Kaldi_March2020/kaldi'
 fix_data_dir = "{}/egs/wsj/s5/utils/fix_data_dir.sh".format(Kaldi_root)
 utt2spk_to_spk2utt = "{}/egs/wsj/s5/utils/utt2spk_to_spk2utt.pl".format(Kaldi_root)
 
@@ -45,10 +45,14 @@ p = subprocess.Popen('find {} -type f -name "*.wav"'.format(extracted_data_dir),
 out, err = p.communicate()
 wavfiles = out.decode('utf-8').strip().split('\n')
 
+wavfilenames = []
 uttids = []
 spks = []
 
 for l in wavfiles:
+    if os.path.basename(l)[:2]=='._':
+        continue
+    wavfilenames.append(l)
     ls = l.split('/')
     uttids.append(ls[-2]+'_'+os.path.splitext(ls[-1])[0])
     spks.append(ls[-2])
@@ -59,11 +63,11 @@ spks = np.asarray(spks)
 if not os.path.exists('./data'):
     os.makedirs('./data')
 
-np.savetxt('data/wav.scp', np.c_[uttids[:,np.newaxis], wavfiles], fmt='%s', delimiter=' ', comments='')
-np.savetxt('data/utt2spk', np.c_[uttids[:,np.newaxis], wavfiles], fmt='%s', delimiter=' ', comments='')
+np.savetxt('data/wav.scp', np.c_[uttids[:,np.newaxis], wavfilenames], fmt='%s', delimiter=' ', comments='')
+np.savetxt('data/utt2spk', np.c_[uttids[:,np.newaxis], spks], fmt='%s', delimiter=' ', comments='')
 
-subprocess.Popen("{} data".format(fix_data_dir))
-subprocess.Popen("{} data/utt2spk > data/spk2utt".format(utt2spk_to_spk2utt))
+subprocess.Popen("{} data".format(fix_data_dir), shell=True)
+subprocess.Popen("{} data/utt2spk > data/spk2utt".format(utt2spk_to_spk2utt), shell=True)
 
 # %% Make Metadata for all files
 
