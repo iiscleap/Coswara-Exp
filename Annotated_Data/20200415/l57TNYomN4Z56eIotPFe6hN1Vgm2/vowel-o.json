@@ -1,0 +1,7 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-o",
+    "comments": "Notification sound in the beginning and then clean audio"
+}

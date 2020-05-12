@@ -1,0 +1,7 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "comments": "volume reduction after a few seconds, sudden loud sound in between"
+}

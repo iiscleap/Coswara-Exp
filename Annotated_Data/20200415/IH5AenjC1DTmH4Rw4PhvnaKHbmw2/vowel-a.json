@@ -1,0 +1,7 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-a",
+    "comments": "The volume of the audio decreases in between and there's some background noise"
+}
