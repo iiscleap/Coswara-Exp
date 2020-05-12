@@ -1,0 +1,8 @@
+{
+    "clean": "y",
+    "vol": "n",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "comments": "long silence at the beginning"
+}
