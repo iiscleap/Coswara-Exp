@@ -1,0 +1,7 @@
+{
+    "vol": "n",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-fast",
+    "comments": "audio becomes inaudible after 10th count"
+}

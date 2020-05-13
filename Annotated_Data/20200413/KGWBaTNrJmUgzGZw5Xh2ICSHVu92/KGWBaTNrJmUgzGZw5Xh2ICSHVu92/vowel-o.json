@@ -1,0 +1,7 @@
+{
+    "clean": "y",
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-o"
+}

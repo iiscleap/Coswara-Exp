@@ -1,0 +1,7 @@
+{
+    "clean": "n",
+    "vol": "y",
+    "cont": "y",
+    "stage": "counting-fast",
+    "comments": "Background noise"
+}
