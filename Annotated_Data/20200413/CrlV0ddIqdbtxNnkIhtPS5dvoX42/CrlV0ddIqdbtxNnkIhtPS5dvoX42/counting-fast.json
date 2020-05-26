@@ -1,7 +1,0 @@
-{
-    "clean": "y",
-    "vol": "y",
-    "cont": "y",
-    "stage": "counting-fast",
-    "comments": "Count only till 17. Audio stopped abruptly"
-}

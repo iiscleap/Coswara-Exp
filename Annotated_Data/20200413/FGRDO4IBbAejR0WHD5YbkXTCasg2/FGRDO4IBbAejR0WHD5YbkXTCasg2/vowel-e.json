@@ -1,7 +1,0 @@
-{
-    "clean": "y",
-    "vol": "y",
-    "cont": "y",
-    "stage": "vowel-e",
-    "comments": "Mouse click noise at the end, and noise at the beginning (probably example stimulus played and not stopped before recording has started)"
-}

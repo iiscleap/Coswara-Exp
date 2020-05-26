@@ -1,7 +1,0 @@
-{
-    "clean": "y",
-    "vol": "y",
-    "cont": "y",
-    "stage": "counting-fast",
-    "comments": "Noise at the beginning of file"
-}

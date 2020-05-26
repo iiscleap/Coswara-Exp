@@ -1,7 +1,0 @@
-{
-    "clean": "y",
-    "vol": "y",
-    "cont": "y",
-    "quality": "noisy_audio",
-    "stage": "cough-heavy"
-}

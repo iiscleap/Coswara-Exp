@@ -1,7 +1,0 @@
-{
-    "vol": "y",
-    "cont": "y",
-    "quality": "clean_audio",
-    "stage": "vowel-a",
-    "comments": "Volume decreases at the end of the audio"
-}

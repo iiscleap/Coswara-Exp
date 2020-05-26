@@ -1,7 +1,0 @@
-{
-    "clean": "y",
-    "vol": "y",
-    "cont": "n",
-    "stage": "counting-fast",
-    "comments": "Count only till 15"
-}

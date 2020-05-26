@@ -1,8 +1,0 @@
-{
-    "clean": "y",
-    "vol": "y",
-    "cont": "n",
-    "quality": "clean_audio",
-    "stage": "vowel-o",
-    "comments": "Has a click"
-}
