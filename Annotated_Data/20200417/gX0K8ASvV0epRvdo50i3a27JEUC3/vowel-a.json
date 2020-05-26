@@ -1,0 +1,7 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-a",
+    "comments": "Volume decreases towards the end"
+}
