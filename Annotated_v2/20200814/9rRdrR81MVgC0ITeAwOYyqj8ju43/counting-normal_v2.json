@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-normal",
+    "start_1": 0.51,
+    "end_1": 12.128,
+    "comments": "Low frequency hum, possibly from a tube-light",
+    "annotator_name": "sraj c"
+}

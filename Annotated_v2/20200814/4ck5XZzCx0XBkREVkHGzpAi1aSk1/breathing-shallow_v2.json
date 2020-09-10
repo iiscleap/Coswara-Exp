@@ -1,0 +1,14 @@
+{
+    "vol": "n",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.16,
+    "end_1": 2.353,
+    "start_2": 3.49,
+    "end_2": 5.522,
+    "start_3": 8.046,
+    "end_3": 9.818,
+    "comments": "volume very low....could not annotate the breathe in and out properly",
+    "annotator_name": "ANANYA M"
+}

@@ -1,0 +1,19 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.617,
+    "end_1": 1.7,
+    "start_2": 2.063,
+    "end_2": 3.226,
+    "start_3": 3.532,
+    "end_3": 4.68,
+    "start_4": 5.022,
+    "end_4": 6.083,
+    "start_5": 6.57,
+    "end_5": 7.587,
+    "start_6": 7.885,
+    "end_6": 8.903,
+    "annotator_name": "ANANYA M"
+}

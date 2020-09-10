@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 5.198,
+    "end_1": 6.378,
+    "start_2": 6.71,
+    "end_2": 7.761,
+    "start_3": 8.278,
+    "end_3": 8.978,
+    "start_4": 14.934,
+    "end_4": 16.52,
+    "start_5": 18.253,
+    "end_5": 23.269,
+    "comments": "In between some cycles are inaudible",
+    "annotator_name": "ANANYA M"
+}

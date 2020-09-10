@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-normal",
+    "start_1": 0.777,
+    "end_1": 14.177,
+    "comments": "Microphone too close, instances of ADC clipping and noise due to airflow burst",
+    "annotator_name": "sraj c"
+}

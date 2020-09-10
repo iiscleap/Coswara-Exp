@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 0.746,
+    "end_1": 8.651,
+    "comments": "Phone sound at the beginning",
+    "annotator_name": "Prashant K V"
+}

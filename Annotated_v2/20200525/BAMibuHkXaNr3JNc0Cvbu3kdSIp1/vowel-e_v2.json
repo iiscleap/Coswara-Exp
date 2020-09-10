@@ -1,0 +1,9 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-e",
+    "start_1": 0.859,
+    "end_1": 8.971,
+    "annotator_name": "sraj c"
+}

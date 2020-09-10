@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-normal",
+    "start_1": 0.915,
+    "end_1": 9.276,
+    "comments": "Only till 15. Then complete silence.",
+    "annotator_name": "ANANYA M"
+}

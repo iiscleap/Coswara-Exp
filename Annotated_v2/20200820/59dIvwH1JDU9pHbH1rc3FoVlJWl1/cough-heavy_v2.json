@@ -1,0 +1,19 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "cough-heavy",
+    "start_1": 0.935,
+    "end_1": 1.317,
+    "start_2": 1.49,
+    "end_2": 1.912,
+    "start_3": 2.394,
+    "end_3": 2.76,
+    "start_4": 2.796,
+    "end_4": 3.15,
+    "start_5": 3.765,
+    "end_5": 4.123,
+    "start_6": 4.199,
+    "end_6": 4.601,
+    "annotator_name": "Shreyas R"
+}

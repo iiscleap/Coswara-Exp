@@ -1,0 +1,14 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "cough-heavy",
+    "start_1": 1.631,
+    "end_1": 2.433,
+    "start_2": 3.094,
+    "end_2": 3.43,
+    "start_3": 4.384,
+    "end_3": 4.731,
+    "comments": "Lots of background noise and conversation",
+    "annotator_name": "Prashant K V"
+}

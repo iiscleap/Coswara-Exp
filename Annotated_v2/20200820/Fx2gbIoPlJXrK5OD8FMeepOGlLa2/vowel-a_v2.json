@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 1.206,
+    "end_1": 14.728,
+    "comments": "some interference (not interference) that distorts the phonetic sounds to 'mmm' in between in some places.",
+    "annotator_name": "ANANYA M"
+}

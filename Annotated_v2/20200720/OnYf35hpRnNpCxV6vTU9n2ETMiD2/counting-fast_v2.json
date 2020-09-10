@@ -1,0 +1,14 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-fast",
+    "start_1": 1.045,
+    "end_1": 6.491,
+    "start_2": 6.556,
+    "end_2": 13.097,
+    "start_3": 13.326,
+    "end_3": 19.868,
+    "comments": "Repeated the counting thrice all over!!",
+    "annotator_name": "ANANYA M"
+}

@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 1.243,
+    "end_1": 8.934,
+    "comments": "'/ah/ instead of /ae/",
+    "annotator_name": "ANANYA M"
+}

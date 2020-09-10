@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.868,
+    "end_1": 3.248,
+    "start_2": 3.523,
+    "end_2": 5.994,
+    "start_3": 6.2,
+    "end_3": 8.454,
+    "start_4": 8.648,
+    "end_4": 10.97,
+    "start_5": 11.565,
+    "end_5": 13.751,
+    "comments": "phone held too close during recording",
+    "annotator_name": "ANANYA M"
+}

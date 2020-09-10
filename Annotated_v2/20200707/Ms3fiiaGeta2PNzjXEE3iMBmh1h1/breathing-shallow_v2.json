@@ -1,0 +1,12 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-shallow",
+    "start_1": 1.298,
+    "end_1": 3.227,
+    "start_2": 4.776,
+    "end_2": 5.681,
+    "comments": "Couldnt detect the breathing cycles properly because of the background noise.",
+    "annotator_name": "ANANYA M"
+}

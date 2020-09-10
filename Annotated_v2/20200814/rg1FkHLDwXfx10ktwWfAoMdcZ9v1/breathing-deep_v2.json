@@ -1,0 +1,12 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.766,
+    "end_1": 1.69,
+    "start_2": 1.905,
+    "end_2": 2.989,
+    "comments": "1 breathing cycle present. But huge gap between inhalation and exhalation.",
+    "annotator_name": "ANANYA M"
+}

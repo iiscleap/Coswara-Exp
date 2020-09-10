@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-o",
+    "start_1": 0.895,
+    "end_1": 5.867,
+    "comments": "intensity of vowel /o/ decreases abruptly",
+    "annotator_name": "Ananya Mandal"
+}

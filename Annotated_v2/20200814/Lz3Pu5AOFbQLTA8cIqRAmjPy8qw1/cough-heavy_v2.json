@@ -1,0 +1,14 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "cough-heavy",
+    "start_1": 1.829,
+    "end_1": 2.743,
+    "start_2": 3.567,
+    "end_2": 4.409,
+    "start_3": 5.251,
+    "end_3": 6.129,
+    "comments": "Noisy initially in the audio clipping.",
+    "annotator_name": "ANANYA M"
+}

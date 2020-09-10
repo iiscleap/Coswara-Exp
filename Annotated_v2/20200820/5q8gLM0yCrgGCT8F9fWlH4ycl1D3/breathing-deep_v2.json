@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "bad_audio",
+    "stage": "breathing-deep",
+    "start_1": 1.837,
+    "end_1": 4.212,
+    "start_2": 4.975,
+    "end_2": 7.35,
+    "start_3": 8.232,
+    "end_3": 11.056,
+    "start_4": 11.654,
+    "end_4": 14.359,
+    "start_5": 15.046,
+    "end_5": 17.556,
+    "comments": "Some interference in the audio. Not background noise; ",
+    "annotator_name": "ANANYA M"
+}

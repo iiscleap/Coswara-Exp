@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.469,
+    "end_1": 1.786,
+    "start_2": 2.068,
+    "end_2": 3.391,
+    "start_3": 3.759,
+    "end_3": 4.691,
+    "start_4": 4.929,
+    "end_4": 5.692,
+    "start_5": 5.896,
+    "end_5": 6.783,
+    "comments": "baby crying in the background",
+    "annotator_name": "ANANYA M"
+}

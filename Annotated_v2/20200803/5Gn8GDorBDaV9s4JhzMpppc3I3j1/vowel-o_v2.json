@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "bad_audio",
+    "stage": "vowel-o",
+    "start_1": 1.642,
+    "end_1": 11.563,
+    "comments": "middle instead of the vowel, there is some interference, that distorts it to '/m' in between and continues as 'o' later on.",
+    "annotator_name": "ANANYA M"
+}

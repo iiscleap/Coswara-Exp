@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-fast",
+    "start_1": 0.528,
+    "end_1": 10.4,
+    "comments": "vehicle noise",
+    "annotator_name": "sraj c"
+}

@@ -1,0 +1,11 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-fast",
+    "start_1": null,
+    "end_1": null,
+    "start_2": 1.232,
+    "end_2": 6.606,
+    "annotator_name": "Shreyas R"
+}

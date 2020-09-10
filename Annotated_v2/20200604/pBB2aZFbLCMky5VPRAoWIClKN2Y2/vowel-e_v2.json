@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-e",
+    "start_1": 1.426,
+    "end_1": 2.929,
+    "comments": "volume dips",
+    "annotator_name": "Neeraj Sharma"
+}

@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-a",
+    "start_1": 1.464,
+    "end_1": 9.909,
+    "comments": "Volume reduces after a few seconds",
+    "annotator_name": "Prashant K V"
+}

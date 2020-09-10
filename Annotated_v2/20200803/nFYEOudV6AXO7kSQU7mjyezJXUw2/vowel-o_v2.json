@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-o",
+    "start_1": 1.17,
+    "end_1": 1.809,
+    "comments": "Said 'cool' instead of just 'oo'. Marked only the 'oo' part.",
+    "annotator_name": "ANANYA M"
+}

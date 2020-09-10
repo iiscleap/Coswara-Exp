@@ -1,0 +1,9 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-o",
+    "start_1": 0.746,
+    "end_1": 18.108,
+    "annotator_name": "Rohit Kumar"
+}

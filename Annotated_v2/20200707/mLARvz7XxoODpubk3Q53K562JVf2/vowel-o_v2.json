@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-o",
+    "start_1": 3.321,
+    "end_1": 7.309,
+    "comments": "External noise in the beginning",
+    "annotator_name": "Prashant K V"
+}

@@ -1,0 +1,16 @@
+{
+    "vol": "y",
+    "cont": "n",
+    "quality": "clean_audio",
+    "stage": "vowel-e",
+    "start_1": 0.658,
+    "end_1": 6.174,
+    "start_2": 14.071,
+    "end_2": 18.019,
+    "start_3": 6.987,
+    "end_3": 8.961,
+    "start_4": 10.548,
+    "end_4": 13.335,
+    "comments": "Lot of cuts in audio and volume becomes low after a few seconds",
+    "annotator_name": "Prashant K V"
+}

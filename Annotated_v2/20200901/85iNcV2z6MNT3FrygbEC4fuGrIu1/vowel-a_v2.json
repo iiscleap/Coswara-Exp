@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "bad_audio",
+    "stage": "vowel-a",
+    "start_1": 0.929,
+    "end_1": 18.778,
+    "comments": "I guess AGC kicked-in in this recording. Volume reduced midway through recording",
+    "annotator_name": "sraj c"
+}

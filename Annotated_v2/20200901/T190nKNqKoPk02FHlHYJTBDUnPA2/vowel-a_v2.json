@@ -1,0 +1,13 @@
+{
+    "vol": "y",
+    "cont": "n",
+    "quality": "noisy_audio",
+    "stage": "vowel-a",
+    "start_1": 1.137,
+    "end_1": 2.614,
+    "start_2": 3.06,
+    "end_2": 4.121,
+    "start_3": 4.806,
+    "end_3": 4.943,
+    "annotator_name": "Prashant K V"
+}

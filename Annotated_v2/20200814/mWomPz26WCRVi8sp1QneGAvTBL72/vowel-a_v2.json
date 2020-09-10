@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 0.754,
+    "end_1": 1.813,
+    "comments": "Doesn't sustain the vowel",
+    "annotator_name": "Prashant K V"
+}

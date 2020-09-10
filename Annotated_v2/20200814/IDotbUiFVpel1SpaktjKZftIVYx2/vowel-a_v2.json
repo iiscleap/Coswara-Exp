@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "n",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 1.198,
+    "end_1": 8.042,
+    "comments": "Volume gets cut off",
+    "annotator_name": "Prashant K V"
+}

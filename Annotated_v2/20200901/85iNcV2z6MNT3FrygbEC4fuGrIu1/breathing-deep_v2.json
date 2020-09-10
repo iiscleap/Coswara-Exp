@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 2.702,
+    "end_1": 4.168,
+    "start_2": 5.702,
+    "end_2": 7.046,
+    "start_3": 8.529,
+    "end_3": 9.753,
+    "start_4": 11.391,
+    "end_4": 12.27,
+    "start_5": 13.821,
+    "end_5": 15.132,
+    "comments": "Slight noise, but segmented out",
+    "annotator_name": "sraj c"
+}

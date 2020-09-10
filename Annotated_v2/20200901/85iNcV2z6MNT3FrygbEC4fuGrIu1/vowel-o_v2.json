@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "bad_audio",
+    "stage": "vowel-o",
+    "start_1": 1.059,
+    "end_1": 16.033,
+    "comments": "Relatively clean audio, but volume change midway due to AGC maybe",
+    "annotator_name": "sraj c"
+}

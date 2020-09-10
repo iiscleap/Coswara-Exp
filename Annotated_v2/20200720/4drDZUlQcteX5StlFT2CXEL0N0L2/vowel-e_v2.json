@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-e",
+    "start_1": 0.737,
+    "end_1": 1.311,
+    "comments": "vowels not extended for a long duration",
+    "annotator_name": "ANANYA M"
+}

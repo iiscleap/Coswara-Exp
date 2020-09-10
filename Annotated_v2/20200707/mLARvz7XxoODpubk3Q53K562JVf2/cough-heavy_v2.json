@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "cough-heavy",
+    "start_1": 3.018,
+    "end_1": 3.747,
+    "start_2": 4.028,
+    "end_2": 4.923,
+    "start_3": 5.392,
+    "end_3": 5.798,
+    "start_4": 7.244,
+    "end_4": 8.379,
+    "start_5": 9.097,
+    "end_5": 9.43,
+    "comments": "Some external noise in the beginning, clean after that",
+    "annotator_name": "Prashant K V"
+}

@@ -1,0 +1,20 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-shallow",
+    "start_1": 1.833,
+    "end_1": 3.171,
+    "start_2": 3.246,
+    "end_2": 4.761,
+    "start_3": 4.811,
+    "end_3": 6.233,
+    "start_4": 6.292,
+    "end_4": 7.646,
+    "start_5": 7.73,
+    "end_5": 9.135,
+    "start_6": 9.185,
+    "end_6": 10.531,
+    "comments": "background TV sound",
+    "annotator_name": "ANANYA M"
+}

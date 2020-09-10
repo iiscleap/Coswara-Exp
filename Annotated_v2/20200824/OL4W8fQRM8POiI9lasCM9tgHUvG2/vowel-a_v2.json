@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 1.994,
+    "end_1": 2.535,
+    "comments": "phonation not sustained long enough. Barely 1s.",
+    "annotator_name": "ANANYA M"
+}

@@ -1,0 +1,16 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-shallow",
+    "start_1": 1.46,
+    "end_1": 4.523,
+    "start_2": 4.873,
+    "end_2": 7.71,
+    "start_3": 10.958,
+    "end_3": 13.384,
+    "start_4": 14.535,
+    "end_4": 15.111,
+    "comments": "Too close to the mic",
+    "annotator_name": "Prashant K V"
+}

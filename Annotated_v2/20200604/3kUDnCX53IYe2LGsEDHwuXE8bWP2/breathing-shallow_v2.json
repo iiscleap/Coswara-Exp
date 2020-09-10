@@ -1,0 +1,17 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 1.932,
+    "end_1": 3.13,
+    "start_2": 3.835,
+    "end_2": 4.881,
+    "start_3": 5.666,
+    "end_3": 6.431,
+    "start_4": 7.065,
+    "end_4": 7.81,
+    "start_5": 8.625,
+    "end_5": 9.179,
+    "annotator_name": "Prashant K V"
+}

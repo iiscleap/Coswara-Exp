@@ -1,0 +1,23 @@
+{
+    "vol": "n",
+    "cont": "n",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 3.571,
+    "end_1": 4.293,
+    "start_2": 2.565,
+    "end_2": 3.022,
+    "start_3": 4.641,
+    "end_3": 5.244,
+    "start_4": 5.719,
+    "end_4": 6.387,
+    "start_5": 6.743,
+    "end_5": 7.009,
+    "start_6": 7.914,
+    "end_6": 8.673,
+    "start_7": 8.938,
+    "end_7": 9.276,
+    "start_8": 10.09,
+    "end_8": 10.565,
+    "annotator_name": "Shreyas R"
+}

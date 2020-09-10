@@ -1,0 +1,14 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.859,
+    "end_1": 2.014,
+    "start_2": 2.85,
+    "end_2": 3.628,
+    "start_3": 4.035,
+    "end_3": 4.376,
+    "comments": "telephone ringing in the background",
+    "annotator_name": "ANANYA M"
+}

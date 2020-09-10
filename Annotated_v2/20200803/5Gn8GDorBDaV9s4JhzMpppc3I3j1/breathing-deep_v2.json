@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.67,
+    "end_1": 3.354,
+    "start_2": 3.513,
+    "end_2": 5.902,
+    "start_3": 6.061,
+    "end_3": 8.051,
+    "start_4": 8.518,
+    "end_4": 10.167,
+    "start_5": 10.872,
+    "end_5": 12.817,
+    "comments": "The exhalation in both the shallow and deep breathing is not clear  ",
+    "annotator_name": "ANANYA M"
+}

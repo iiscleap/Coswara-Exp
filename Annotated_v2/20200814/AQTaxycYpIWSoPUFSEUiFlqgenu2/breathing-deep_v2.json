@@ -1,0 +1,16 @@
+{
+    "vol": "n",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.863,
+    "end_1": 2.075,
+    "start_2": 5.105,
+    "end_2": 6.644,
+    "start_3": 14.453,
+    "end_3": 15.922,
+    "start_4": 18.836,
+    "end_4": 20.211,
+    "comments": "Can't hear much, but spectrogram and waveform show activity",
+    "annotator_name": "Prashant K V"
+}

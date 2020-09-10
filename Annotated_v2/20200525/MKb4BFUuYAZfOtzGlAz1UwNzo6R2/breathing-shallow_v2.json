@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.572,
+    "end_1": 1.134,
+    "start_2": 1.228,
+    "end_2": 1.82,
+    "start_3": 1.934,
+    "end_3": 2.507,
+    "start_4": 2.624,
+    "end_4": 3.21,
+    "start_5": 3.287,
+    "end_5": 3.937,
+    "comments": "birds chirping in the background",
+    "annotator_name": "ANANYA M"
+}

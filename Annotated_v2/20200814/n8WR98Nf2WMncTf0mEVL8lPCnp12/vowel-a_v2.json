@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "n",
+    "quality": "noisy_audio",
+    "stage": "vowel-a",
+    "start_1": 0.748,
+    "end_1": 7.04,
+    "comments": "Volume dip and distorted audio",
+    "annotator_name": "Prashant K V"
+}

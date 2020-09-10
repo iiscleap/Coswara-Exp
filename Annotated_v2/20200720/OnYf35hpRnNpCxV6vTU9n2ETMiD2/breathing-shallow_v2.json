@@ -1,0 +1,20 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 4.86,
+    "end_1": 5.346,
+    "start_2": 7.273,
+    "end_2": 7.742,
+    "start_3": 9.774,
+    "end_3": 10.26,
+    "start_4": 11.84,
+    "end_4": 12.656,
+    "start_5": 19.011,
+    "end_5": 19.393,
+    "start_6": 20.99,
+    "end_6": 21.493,
+    "comments": "Some breathing cycles are not audible.",
+    "annotator_name": "ANANYA M"
+}

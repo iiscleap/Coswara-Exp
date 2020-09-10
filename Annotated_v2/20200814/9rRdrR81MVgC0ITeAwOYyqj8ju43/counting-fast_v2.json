@@ -1,0 +1,9 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-fast",
+    "start_1": 0.388,
+    "end_1": 7.77,
+    "annotator_name": "sraj c"
+}

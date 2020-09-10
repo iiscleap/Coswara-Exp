@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-e",
+    "start_1": 0.925,
+    "end_1": 1.533,
+    "comments": "not sustained",
+    "annotator_name": "Shreyas R"
+}

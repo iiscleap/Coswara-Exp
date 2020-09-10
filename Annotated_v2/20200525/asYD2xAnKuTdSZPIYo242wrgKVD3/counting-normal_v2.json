@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-normal",
+    "start_1": 0.258,
+    "end_1": 10.075,
+    "comments": "Lots of background noise",
+    "annotator_name": "Prashant K V"
+}

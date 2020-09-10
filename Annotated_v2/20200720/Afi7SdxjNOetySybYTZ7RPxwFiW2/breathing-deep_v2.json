@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-deep",
+    "start_1": 1.337,
+    "end_1": 15.897,
+    "comments": "Mild noise",
+    "annotator_name": "sraj c"
+}

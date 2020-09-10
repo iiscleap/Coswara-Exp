@@ -1,0 +1,11 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-fast",
+    "start_1": 0.888,
+    "end_1": 7.112,
+    "start_2": 7.422,
+    "end_2": 9.105,
+    "annotator_name": "Prashant K V"
+}

@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "n",
+    "quality": "noisy_audio",
+    "stage": "breathing-deep",
+    "start_1": 2.139,
+    "end_1": 3.829,
+    "comments": "Many interference and breaking of audio in-between. Could only distinguish one cycle",
+    "annotator_name": "ANANYA M"
+}

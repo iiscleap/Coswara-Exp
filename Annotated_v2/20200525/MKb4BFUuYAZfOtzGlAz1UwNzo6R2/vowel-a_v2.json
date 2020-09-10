@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-a",
+    "start_1": 0.65,
+    "end_1": 19.645,
+    "comments": "Some interference present. But the audio is not that bad.",
+    "annotator_name": "ANANYA M"
+}

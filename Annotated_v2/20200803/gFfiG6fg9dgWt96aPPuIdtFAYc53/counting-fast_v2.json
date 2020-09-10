@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-fast",
+    "start_1": 1.869,
+    "end_1": 7.647,
+    "comments": "Counting in regional language and not in English",
+    "annotator_name": "Ananya Mandal"
+}

@@ -1,0 +1,14 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-o",
+    "start_1": 2.322,
+    "end_1": 2.481,
+    "start_2": 2.771,
+    "end_2": 2.897,
+    "start_3": 3.256,
+    "end_3": 3.353,
+    "comments": "Subject has uttered 'cool' three times. Marked only the perceptible 'oo' regions",
+    "annotator_name": "ANANYA M"
+}

@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-e",
+    "start_1": 0.968,
+    "end_1": 1.565,
+    "comments": "Said the complete word 'beet' instead of '/ee/'. MArked only the /ee/",
+    "annotator_name": "ANANYA M"
+}

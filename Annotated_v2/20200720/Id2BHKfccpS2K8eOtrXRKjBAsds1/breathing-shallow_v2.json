@@ -1,0 +1,22 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 1.45,
+    "end_1": 2.512,
+    "start_2": 3.414,
+    "end_2": 4.706,
+    "start_3": 6.671,
+    "end_3": 8.352,
+    "start_4": 8.795,
+    "end_4": 10.122,
+    "start_5": 10.6,
+    "end_5": 11.751,
+    "start_6": 12.246,
+    "end_6": 13.397,
+    "start_7": 13.91,
+    "end_7": 14.848,
+    "comments": "mixed a little with cough in the beginning",
+    "annotator_name": "ANANYA M"
+}

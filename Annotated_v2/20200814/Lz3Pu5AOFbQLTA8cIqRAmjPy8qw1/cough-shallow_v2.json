@@ -1,0 +1,14 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "cough-shallow",
+    "start_1": 1.25,
+    "end_1": 2.204,
+    "start_2": 2.878,
+    "end_2": 3.943,
+    "start_3": 6.525,
+    "end_3": 7.212,
+    "comments": "Some slight background noise in bewteen.",
+    "annotator_name": "ANANYA M"
+}

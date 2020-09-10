@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-normal",
+    "start_1": 1.686,
+    "end_1": 13.503,
+    "comments": "Too much background noise",
+    "annotator_name": "Ananya Mandal"
+}

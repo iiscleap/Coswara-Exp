@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-deep",
+    "start_1": 1.318,
+    "end_1": 11.455,
+    "comments": "Noise due to excess air also",
+    "annotator_name": "sraj c"
+}

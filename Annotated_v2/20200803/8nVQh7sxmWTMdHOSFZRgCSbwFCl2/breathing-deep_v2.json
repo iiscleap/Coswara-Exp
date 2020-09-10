@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.142,
+    "end_1": 10.52,
+    "comments": "Annotated region is clean",
+    "annotator_name": "sraj c"
+}

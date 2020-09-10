@@ -1,0 +1,16 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "bad_audio",
+    "stage": "cough-shallow",
+    "start_1": 1.694,
+    "end_1": 2.676,
+    "start_2": 3.065,
+    "end_2": 4.001,
+    "start_3": 4.528,
+    "end_3": 5.642,
+    "start_4": 6.209,
+    "end_4": 7.376,
+    "comments": "some form of interference in the audio which is spoiling the quality of audio",
+    "annotator_name": "ANANYA M"
+}

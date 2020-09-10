@@ -1,0 +1,13 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "cough-shallow",
+    "start_1": 1.438,
+    "end_1": 2.323,
+    "start_2": 2.668,
+    "end_2": 3.578,
+    "start_3": 4.033,
+    "end_3": 4.888,
+    "annotator_name": "sraj c"
+}

@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 1.256,
+    "end_1": 2.008,
+    "comments": "He said 'made' instead of /ae/. I have marked the /ae/ part.",
+    "annotator_name": "ANANYA M"
+}

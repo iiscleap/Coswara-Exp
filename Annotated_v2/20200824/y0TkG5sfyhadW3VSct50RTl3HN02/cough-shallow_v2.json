@@ -1,0 +1,12 @@
+{
+    "vol": "n",
+    "cont": "n",
+    "quality": "bad_audio",
+    "stage": "cough-shallow",
+    "start_1": 0.792,
+    "end_1": 1.475,
+    "start_2": 1.758,
+    "end_2": 2.444,
+    "comments": "Alert. check audio spectrogram sync.",
+    "annotator_name": "Neeraj Sharma"
+}

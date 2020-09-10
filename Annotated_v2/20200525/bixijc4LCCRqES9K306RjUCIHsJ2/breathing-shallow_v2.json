@@ -1,0 +1,12 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-shallow",
+    "start_1": 4.656,
+    "end_1": 5.542,
+    "start_2": 6.107,
+    "end_2": 8.27,
+    "comments": "Lots of background noises, difficult to distinguish sound of breathing with background noise, especially beginning of audio.",
+    "annotator_name": "Ananya Mandal"
+}

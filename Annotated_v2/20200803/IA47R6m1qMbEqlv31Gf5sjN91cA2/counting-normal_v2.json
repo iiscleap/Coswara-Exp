@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-normal",
+    "start_1": 0.751,
+    "end_1": 12.498,
+    "comments": "Numbers counted in Kannada",
+    "annotator_name": "ANANYA M"
+}

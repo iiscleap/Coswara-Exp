@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 0.577,
+    "end_1": 5.018,
+    "comments": "with the vowel, it seems to be a little nasal in nature",
+    "annotator_name": "ANANYA M"
+}

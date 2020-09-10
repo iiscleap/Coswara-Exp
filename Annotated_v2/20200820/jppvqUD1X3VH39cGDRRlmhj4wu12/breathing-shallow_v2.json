@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "breathing-shallow",
+    "start_1": 1.119,
+    "end_1": 1.907,
+    "start_2": 2.263,
+    "end_2": 3.138,
+    "start_3": 3.307,
+    "end_3": 4.083,
+    "start_4": 4.848,
+    "end_4": 5.18,
+    "start_5": 5.927,
+    "end_5": 6.312,
+    "comments": "clipps",
+    "annotator_name": "Neeraj Sharma"
+}

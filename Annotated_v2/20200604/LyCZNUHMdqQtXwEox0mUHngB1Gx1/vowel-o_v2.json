@@ -1,0 +1,10 @@
+{
+    "vol": "n",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-o",
+    "start_1": 0.935,
+    "end_1": 14.169,
+    "comments": "Volume very low. Mobile sound in the initial stages.",
+    "annotator_name": "ANANYA M"
+}
