@@ -1,0 +1,10 @@
+{
+    "vol": "n",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-normal",
+    "start_1": 1.134,
+    "end_1": 12.041,
+    "comments": "Volume at 1, 2, 3 and 4 is very low. Volume at rest of the counting is fine.",
+    "annotator_name": "Ananya Mandal"
+}

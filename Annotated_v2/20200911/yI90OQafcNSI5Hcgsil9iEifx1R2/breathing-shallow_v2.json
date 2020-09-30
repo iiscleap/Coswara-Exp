@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.691,
+    "end_1": 1.783,
+    "start_2": 1.846,
+    "end_2": 2.486,
+    "start_3": 2.603,
+    "end_3": 3.298,
+    "start_4": 3.341,
+    "end_4": 4.036,
+    "start_5": 4.094,
+    "end_5": 4.894,
+    "comments": "Some parts, exhalation is through mouth(possibly)",
+    "annotator_name": "ANANYA M"
+}

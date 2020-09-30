@@ -1,0 +1,20 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.78,
+    "end_1": 4.099,
+    "start_2": 4.902,
+    "end_2": 6.171,
+    "start_3": 6.639,
+    "end_3": 8.845,
+    "start_4": 11.474,
+    "end_4": 13.323,
+    "start_5": 15.752,
+    "end_5": 17.512,
+    "start_6": 19.406,
+    "end_6": 21.255,
+    "comments": "Some cycles, inhalations weren't audible. Didn't mark those",
+    "annotator_name": "Prashant K V"
+}

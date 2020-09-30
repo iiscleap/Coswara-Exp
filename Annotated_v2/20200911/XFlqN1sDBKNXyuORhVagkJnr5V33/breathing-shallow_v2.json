@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 4.902,
+    "end_1": 6.832,
+    "start_2": 7.74,
+    "end_2": 9.671,
+    "start_3": 12.301,
+    "end_3": 14.288,
+    "start_4": 14.723,
+    "end_4": 16.635,
+    "start_5": 17.127,
+    "end_5": 18.66,
+    "comments": "Only the inhalations were audible. Marked those regions",
+    "annotator_name": "Prashant K V"
+}

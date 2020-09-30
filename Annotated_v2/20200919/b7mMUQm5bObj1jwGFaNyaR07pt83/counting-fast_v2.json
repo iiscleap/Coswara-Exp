@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-fast",
+    "start_1": 2.822,
+    "end_1": 11.293,
+    "comments": "Is a bit noisy. Better to have a second opinion on the annotation of this clip.",
+    "annotator_name": "Ananya Mandal"
+}

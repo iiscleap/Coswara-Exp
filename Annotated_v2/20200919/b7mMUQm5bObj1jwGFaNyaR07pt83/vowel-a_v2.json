@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 2.162,
+    "end_1": 2.79,
+    "comments": "Vowel /a/ is there only for a second.",
+    "annotator_name": "Ananya Mandal"
+}

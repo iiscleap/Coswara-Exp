@@ -1,0 +1,10 @@
+{
+    "vol": "n",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "vowel-e",
+    "start_1": 0.043,
+    "end_1": 2.437,
+    "comments": "Volume is very low. Some background noise (like a thud at the microphone) present in middle of audio.",
+    "annotator_name": "Ananya Mandal"
+}

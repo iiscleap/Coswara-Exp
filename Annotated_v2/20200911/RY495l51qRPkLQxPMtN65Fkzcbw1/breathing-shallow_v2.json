@@ -1,0 +1,20 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.824,
+    "end_1": 1.103,
+    "start_2": 1.643,
+    "end_2": 1.902,
+    "start_3": 2.417,
+    "end_3": 2.677,
+    "start_4": 3.084,
+    "end_4": 3.369,
+    "start_5": 3.82,
+    "end_5": 4.055,
+    "start_6": 4.501,
+    "end_6": 4.751,
+    "comments": "Sounds like panting. Have marked those regions",
+    "annotator_name": "Prashant K V"
+}

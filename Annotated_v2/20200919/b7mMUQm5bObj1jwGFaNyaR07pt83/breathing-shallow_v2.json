@@ -1,0 +1,16 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 3.095,
+    "end_1": 3.526,
+    "start_2": 4.555,
+    "end_2": 5.065,
+    "start_3": 5.95,
+    "end_3": 6.421,
+    "start_4": 7.441,
+    "end_4": 7.856,
+    "comments": "Clear cycles of breathing not heard. Only sound of inhaling heard. ",
+    "annotator_name": "Ananya Mandal"
+}

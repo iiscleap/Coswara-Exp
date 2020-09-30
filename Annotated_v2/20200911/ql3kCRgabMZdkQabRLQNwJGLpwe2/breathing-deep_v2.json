@@ -1,0 +1,14 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.416,
+    "end_1": 1.684,
+    "start_2": 2.025,
+    "end_2": 3.206,
+    "start_3": 3.443,
+    "end_3": 4.595,
+    "comments": "Last 2 seconds of the audio has noise. Someone speaking in the background. The audio cycles audible in the initial part of the audio has been marked.",
+    "annotator_name": "ANANYA M"
+}

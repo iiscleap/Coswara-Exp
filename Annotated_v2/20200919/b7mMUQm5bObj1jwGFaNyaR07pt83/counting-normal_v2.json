@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-normal",
+    "start_1": 0.12,
+    "end_1": 29.293,
+    "comments": "Counting is done only till 16. Voices heard intermittently in the background. ",
+    "annotator_name": "Ananya Mandal"
+}

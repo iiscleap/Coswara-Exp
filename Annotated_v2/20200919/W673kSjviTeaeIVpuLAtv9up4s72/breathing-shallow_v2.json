@@ -1,0 +1,15 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.922,
+    "end_1": 2.01,
+    "start_2": 2.556,
+    "end_2": 2.896,
+    "start_3": 3.374,
+    "end_3": 3.783,
+    "start_4": 4.363,
+    "end_4": 4.608,
+    "annotator_name": "Rohit Kumar"
+}
