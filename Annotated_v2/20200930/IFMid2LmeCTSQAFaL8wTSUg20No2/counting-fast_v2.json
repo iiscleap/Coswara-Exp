@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-fast",
+    "start_1": 0.56,
+    "end_1": 2.545,
+    "comments": "Numbers after 10 are not clear. Mumbling",
+    "annotator_name": "Prashant K V"
+}

@@ -1,0 +1,22 @@
+{
+    "vol": "n",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 1.013,
+    "end_1": 2.183,
+    "start_2": 3.65,
+    "end_2": 5.064,
+    "start_3": 6.007,
+    "end_3": 6.985,
+    "start_4": 7.474,
+    "end_4": 8.749,
+    "start_5": 10.041,
+    "end_5": 11.193,
+    "start_6": 12.521,
+    "end_6": 13.638,
+    "start_7": 14.948,
+    "end_7": 16.083,
+    "comments": "Volume too low",
+    "annotator_name": "Prashant K V"
+}

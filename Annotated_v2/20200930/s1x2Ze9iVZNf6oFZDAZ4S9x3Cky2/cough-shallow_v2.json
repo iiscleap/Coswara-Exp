@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "cough-shallow",
+    "start_1": 0.712,
+    "end_1": 1.473,
+    "comments": "Coughs for less than a second",
+    "annotator_name": "Prashant K V"
+}

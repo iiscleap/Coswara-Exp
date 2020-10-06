@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 4.333,
+    "end_1": 6.575,
+    "start_2": 6.761,
+    "end_2": 8.97,
+    "start_3": 9.138,
+    "end_3": 11.229,
+    "start_4": 11.482,
+    "end_4": 13.69,
+    "start_5": 13.792,
+    "end_5": 15.815,
+    "comments": "Background noise in the first few breathing cycles. Haven't marked it. ",
+    "annotator_name": "Prashant K V"
+}

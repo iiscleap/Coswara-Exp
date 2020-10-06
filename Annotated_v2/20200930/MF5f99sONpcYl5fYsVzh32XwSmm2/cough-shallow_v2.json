@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "cough-shallow",
+    "start_1": 0.763,
+    "end_1": 1.439,
+    "comments": "Doesn't sound like a cough. Need to re-listen this audio.",
+    "annotator_name": "Prashant K V"
+}
