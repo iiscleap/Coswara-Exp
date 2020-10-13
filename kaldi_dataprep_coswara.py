@@ -16,7 +16,7 @@ import json
 import pandas as pd
 
 # %% Kaldi functions
-Kaldi_root = '/state/partition1/softwares/Kaldi_March2020/kaldi'
+Kaldi_root = '/state/partition1/softwares/Kaldi_Sept_2020/kaldi'
 fix_data_dir = "{}/egs/wsj/s5/utils/fix_data_dir.sh".format(Kaldi_root)
 utt2spk_to_spk2utt = "{}/egs/wsj/s5/utils/utt2spk_to_spk2utt.pl".format(Kaldi_root)
 

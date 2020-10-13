@@ -1,0 +1,12 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 0.023,
+    "end_1": 0.948,
+    "start_2": 1.942,
+    "end_2": 2.466,
+    "comments": "Didn't sustain continuously. Marked 2 separate regions and volume is low",
+    "annotator_name": "Prashant K V"
+}
