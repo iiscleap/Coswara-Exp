@@ -1,0 +1,12 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.885,
+    "end_1": 2.795,
+    "start_2": 3.755,
+    "end_2": 9.131,
+    "comments": "Only one long breathing cycle",
+    "annotator_name": "Prashant K V"
+}

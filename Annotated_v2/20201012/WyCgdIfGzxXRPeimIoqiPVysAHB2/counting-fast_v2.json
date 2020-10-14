@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "noisy_audio",
+    "stage": "counting-fast",
+    "start_1": 0.813,
+    "end_1": 4.571,
+    "comments": "Fake voice. Numbers not too clear",
+    "annotator_name": "Prashant K V"
+}

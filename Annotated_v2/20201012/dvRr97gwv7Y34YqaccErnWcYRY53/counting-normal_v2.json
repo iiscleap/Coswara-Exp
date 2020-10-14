@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-normal",
+    "start_1": 1.067,
+    "end_1": 13.087,
+    "comments": "Counted the numbers in Hindi",
+    "annotator_name": "Prashant K V"
+}

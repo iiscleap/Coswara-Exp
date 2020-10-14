@@ -1,0 +1,20 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-o",
+    "start_1": 0.901,
+    "end_1": 1.767,
+    "start_2": 2.258,
+    "end_2": 3.053,
+    "start_3": 4.141,
+    "end_3": 4.937,
+    "start_4": 5.768,
+    "end_4": 6.282,
+    "start_5": 6.75,
+    "end_5": 7.3,
+    "start_6": 7.803,
+    "end_6": 8.54,
+    "comments": "Does not sustain, but repeats the vowel with breaks, marked those regions",
+    "annotator_name": "Prashant K V"
+}

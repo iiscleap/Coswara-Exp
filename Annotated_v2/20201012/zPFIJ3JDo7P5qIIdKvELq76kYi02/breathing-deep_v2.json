@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.446,
+    "end_1": 2.467,
+    "start_2": 2.982,
+    "end_2": 5.045,
+    "start_3": 5.63,
+    "end_3": 7.762,
+    "start_4": 8.333,
+    "end_4": 10.243,
+    "start_5": 10.814,
+    "end_5": 12.695,
+    "comments": "Exhales through the mouth",
+    "annotator_name": "Prashant K V"
+}

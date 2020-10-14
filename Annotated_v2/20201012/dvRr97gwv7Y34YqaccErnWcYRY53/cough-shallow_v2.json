@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "cough-shallow",
+    "start_1": 6.83,
+    "end_1": 7.971,
+    "comments": "Muqabla guy, annotated the cough region ",
+    "annotator_name": "Prashant K V"
+}

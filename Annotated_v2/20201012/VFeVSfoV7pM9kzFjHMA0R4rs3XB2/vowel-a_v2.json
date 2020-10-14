@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 0.657,
+    "end_1": 10.334,
+    "comments": "volume dip in between",
+    "annotator_name": "ANANYA M"
+}

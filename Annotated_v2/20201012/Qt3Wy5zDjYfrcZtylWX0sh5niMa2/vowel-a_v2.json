@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 1.11,
+    "end_1": 21.838,
+    "comments": "Some clipping effect distorting the audio a bit, but clean otherwise",
+    "annotator_name": "Prashant K V"
+}

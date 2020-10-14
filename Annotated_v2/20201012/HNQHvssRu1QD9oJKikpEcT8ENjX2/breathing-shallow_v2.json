@@ -1,0 +1,18 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-shallow",
+    "start_1": 0.592,
+    "end_1": 1.744,
+    "start_2": 1.994,
+    "end_2": 3.755,
+    "start_3": 3.997,
+    "end_3": 4.956,
+    "start_4": 5.549,
+    "end_4": 6.917,
+    "start_5": 7.226,
+    "end_5": 8.227,
+    "comments": "Breaths were quite deep",
+    "annotator_name": "Prashant K V"
+}

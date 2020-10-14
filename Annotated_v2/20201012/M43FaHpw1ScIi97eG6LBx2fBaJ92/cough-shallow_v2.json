@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "cough-shallow",
+    "start_1": 1.206,
+    "end_1": 2.616,
+    "comments": "Sounded like there was echo",
+    "annotator_name": "Prashant K V"
+}

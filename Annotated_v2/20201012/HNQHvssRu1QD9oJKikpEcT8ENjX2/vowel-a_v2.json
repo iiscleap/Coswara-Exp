@@ -1,0 +1,12 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "vowel-a",
+    "start_1": 4.235,
+    "end_1": 4.618,
+    "start_2": 0.274,
+    "end_2": 0.932,
+    "comments": "Says the word made a few times, marked the vowel /ae/ regions",
+    "annotator_name": "Prashant K V"
+}

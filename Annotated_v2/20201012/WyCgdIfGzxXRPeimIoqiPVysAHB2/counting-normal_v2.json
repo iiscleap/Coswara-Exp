@@ -1,0 +1,10 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "counting-normal",
+    "start_1": 0.683,
+    "end_1": 13.782,
+    "comments": "Speaking in a fake voice. Should check all the files of the user before including in training.",
+    "annotator_name": "Prashant K V"
+}

@@ -1,0 +1,12 @@
+{
+    "vol": "y",
+    "cont": "n",
+    "quality": "clean_audio",
+    "stage": "vowel-o",
+    "start_1": 0.593,
+    "end_1": 4.8,
+    "start_2": 5.969,
+    "end_2": 10.823,
+    "comments": "Volume dip",
+    "annotator_name": "Prashant K V"
+}

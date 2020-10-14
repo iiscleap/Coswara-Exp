@@ -1,0 +1,20 @@
+{
+    "vol": "y",
+    "cont": "y",
+    "quality": "clean_audio",
+    "stage": "breathing-deep",
+    "start_1": 0.66,
+    "end_1": 1.796,
+    "start_2": 2.799,
+    "end_2": 4.331,
+    "start_3": 7.896,
+    "end_3": 10.035,
+    "start_4": 12.993,
+    "end_4": 14.393,
+    "start_5": 18.248,
+    "end_5": 20.018,
+    "start_6": 23.504,
+    "end_6": 25.299,
+    "comments": "Many inhales weren't audible",
+    "annotator_name": "Prashant K V"
+}
